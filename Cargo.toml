@@ -1,10 +1,11 @@
 [package]
 name = "cmakr"
-description = "Build dependence for build cmake project in build.rs"
 authors = ["Cora"]
 license = "MIT"
 version = "0.1.0"
 edition = "2024"
+repository = "https://github.com/CoraBlack/cmakr.git"
+description = "Build dependence for build cmake project in build.rs"
 
 [dependencies]
 which = "8.0"
