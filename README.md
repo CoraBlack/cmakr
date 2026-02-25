@@ -82,6 +82,8 @@ match result {
 }
 ```
 
+### [Demo of `cmakr` and `bindgen`](https://github.com/CoraBlack/cmakr-demo)
+
 ## API Reference
 
 ### `Cmd`
