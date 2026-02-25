@@ -1,6 +1,9 @@
 [package]
-name = "pp"
+name = "cmakr-example"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+
+[build-dependencies]
+cmakr = { path = "../" }

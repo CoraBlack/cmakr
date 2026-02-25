@@ -1,5 +1,8 @@
 [package]
-name = "cmake-builder"
+name = "cmakr"
+description = "Build dependence for build cmake project in build.rs"
+authors = ["Cora"]
+license = "MIT"
 version = "0.1.0"
 edition = "2024"
 

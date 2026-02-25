@@ -18,6 +18,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "cmakr-example"
+version = "0.1.0"
+dependencies = [
+ "cmakr",
+]
+
+[[package]]
 name = "env_home"
 version = "0.1.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
