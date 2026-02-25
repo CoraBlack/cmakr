@@ -1,0 +1,13 @@
+{
+    "version": 4,
+    "configurePresets": [
+        {
+            "name": "default",
+            "displayName": "Default",
+            "generator": "Ninja",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Debug"
+            }
+        }
+    ]
+}
