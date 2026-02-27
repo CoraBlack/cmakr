@@ -2,7 +2,9 @@
 
 A Rust library for programmatically invoking CMake configure and build steps.
 
-Designed for use in Cargo `build.rs` scripts, `cmakr` provides a builder-pattern API to compile C/C++ CMake projects and link the resulting artifacts into your Rust binary.
+## Goal of cmakr
+- Designed for use in Cargo `build.rs` scripts, `cmakr` provides a builder-pattern API to compile C/C++ CMake projects and link the resulting artifacts into your Rust binary.
+- use together with `bindgen` to build C/C++ dependencies for rust project
 
 ## Features
 
